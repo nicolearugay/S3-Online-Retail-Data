@@ -28,7 +28,6 @@ file_name = 'insert file name'
 s3_client.upload_file(file_path, S3_BUCKET_NAME, file_name)
 
 
-
 # Download the CSV file from the S3 bucket
 csv_obj = s3_client.get_object(Bucket=S3_BUCKET_NAME, Key=file_name)
 csv_data = csv_obj['Body'].read().decode('utf-8')
