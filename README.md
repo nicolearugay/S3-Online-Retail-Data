@@ -2,6 +2,8 @@
 
 Description: Integrating AWS Simple Storage Service (S3) while analyzing an online retail dataset. 
 
+Considerations: Ran on macOS M1 and Jupyter Notebook in Conda environment. Policy was added to s3 bucket. 
+
 Top 10 most sold products:
 | Rank | Description                          | Quantity |
 |------|--------------------------------------|----------|
