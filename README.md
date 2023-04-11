@@ -32,4 +32,3 @@ Top 10 countries with the highest revenue:
 | 9    | Belgium         |    40,910.96 |
 | 10   | Sweden          |    36,595.91 |
 
-<img width="469" alt="Screen Shot 2023-04-10 at 12 21 59 PM" src="https://user-images.githubusercontent.com/62254480/230945131-e4c28443-e4ca-4abe-8dd7-4fce76ddfa83.png">
