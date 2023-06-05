@@ -20,7 +20,7 @@ Top 10 most sold products:
 
 
 
-Countries by highest revenue:
+Top 10 countries by highest revenue:
 | Country         | Revenue       |
 |-----------------|---------------|
 | United Kingdom  | 16,382,580.00 |
