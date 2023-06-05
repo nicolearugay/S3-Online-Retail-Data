@@ -50,7 +50,7 @@ print(top_10_products)
 
 
 # Calculate the total revenue per country
-df['Revenue'] = df['Quantity'] * df['UnitPrice']
+df['Revenue'] = df['Quantity'] * df['Price']
 total_revenue_per_country = df.groupby('Country')['Revenue'].sum()
 
 
